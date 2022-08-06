@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "name": "repo-creation",
+      "repos": [
+        "repo-creation",
+        "repo-creation-test"
+      ]
+    },
+    {
+      "name": "foreachtoiltest",
+      "repos": [
+        "foreachtoiltest-repo1",
+        "foreachtoiltest-repo2"
+      ]
+    },
+    {
+      "name": "testforkevigote",
+      "repos": [
+        "kevigote-repo1",
+        "kevigote-repo2"
+      ]
+    },
+    {
+      "name": "testforfarma",
+      "repos": [
+        "farma-repo1",
+        "farma-repo2"
+      ]
+    }
+  ]
+}
