@@ -1,2 +1,2 @@
 requests
-simplejson
+simplejson==3.18.0
